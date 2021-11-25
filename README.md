@@ -1,5 +1,5 @@
 ### Hello viewer! I am priyansh choudhary - aka [priyansh17] 👋.
-#### I'm 19 years old currently pursuing my Bachelor's Degree in Computer Science from KIIT Bhubaneshwar, India.
+#### I'm 21 years old currently pursuing my Bachelor's Degree in Computer Science from KIIT Bhubaneshwar, India.
 
 
 ## I'm a Student, Developer, and Learner!
