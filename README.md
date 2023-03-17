@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+<img align="right" width="500" src="https://thumbs.dreamstime.com/b/coding-wallpaper-ai-robot-algorithms-future-warfare-cyber-attack-concept-155190388.jpg" alt="Coding">
 
 ### I'm a Student, Developer, and Learner!
 
