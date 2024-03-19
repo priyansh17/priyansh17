@@ -20,11 +20,6 @@
 
 ### I'm a Student, Developer, and Learner!
 
-- 🌱 I’m currently working in Cloudera as SDE-1
-- 👯 I’m looking to collaborate with other people for projects
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Games alongside and I'm into content writing.
-
 ###  Connect with me 
 
 <p align="left">
@@ -40,49 +35,10 @@
 <a href="mailto:im1706@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p> 
-
-###  My Website:
 <a href="https://priyansh17.github.io/My-Portfolio/">
   <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 </a>
-
----
-
-### My Skills 
-	
-[![Python Badge](https://img.shields.io/badge/-Python-3476AA?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
----
-[![HTML Badge](https://img.shields.io/badge/-HTML5-E54C21?style=flat-square&logo=HTML5&logoColor=white)](https://html.com/)
-[![CSS Badge](https://img.shields.io/badge/-CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SCSS Badge](https://img.shields.io/badge/-SCSS-2496ED?style=flat-square&logo=SASS&logoColor=white)](https://sass-lang.com/)
-![ReactJS Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
----
-[![Linux Badge](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Git Badge](https://img.shields.io/badge/-Git-F05133?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-![Ansible Badge](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
----
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
----
-[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
-[![WebScraping Badge](https://img.shields.io/badge/-WebScraping-00AE00?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-[![Dart Badge](https://img.shields.io/badge/-Dart-2CB7F6?style=flat-square&logo=Dart&logoColor=white)](https://dart.dev/)
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-45D1FD?style=flat-square&logo=Flutter&logoColor=white)](https://Flutter.dev/)
----
-[![JSON Badge](https://img.shields.io/badge/-JSON-723FFF?style=flat-square&logo=JSON&logoColor=white)](https://www.json.org/)
-[![YAML Badge](https://img.shields.io/badge/-YAML-0067A2?style=flat-square&logo=YAML&logoColor=white)](https://yaml.org/)
-[![RegEx Badge](https://img.shields.io/badge/-RegEx-FD5900?style=flat-square&logo=RegEx&logoColor=white)](https://en.wikipedia.org/wiki/Regular_expression)
----
-![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+</p> 
 
 ---
 
