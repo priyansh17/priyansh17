@@ -35,7 +35,7 @@
 <a href="mailto:im1706@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://priyansh17.github.io/My-Portfolio/">
+<a href="https://priyansh17.github.io/portfolio/">
   <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 </a>
 </p> 
