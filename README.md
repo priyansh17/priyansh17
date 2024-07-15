@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+viewer!;I'm+Priyansh;Have+a+great+day;&center=true&size=35">
 </h1>
 
+![visitors][visitors]
+
 ### My Stats:
 
 <p align="center">
@@ -45,3 +47,4 @@
 [youtube]: https://www.youtube.com/c/NotPriyansh
 [instagram]: https://www.instagram.com/iamnotpriyansh_/
 [linkedin]: https://www.linkedin.com/in/priyansh-choudhary-33815161/
+[visitors]: https://visitor-badge.laobi.icu/badge?page_id=priyansh17
